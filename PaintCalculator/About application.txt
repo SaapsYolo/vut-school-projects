@@ -1,0 +1,6 @@
+This application calculates the number of litre tins you need for you to paint a room by getting the Area using length and height of the room.
+1 Litre of tin can cover 2metre square
+
+In summary:
+1. The application will tell you number of Litres needed
+2. It will tell you number of tins needed to be bought
